@@ -15,14 +15,14 @@ function App() {
 <div className="flex justify-center py-12 px-[70px]">
   <div className="flex flex-wrap w-full gap-4">
      
-        <p className='bg-gray-200  w-full p-4 rounded-xl'>Quiz-01</p>
+        <p className='bg-gray-200  w-full p-4 rounded-xl  flex items-center gap-4'><span><FaRegDotCircle /></span> Quiz-01</p>
         
-        <p className='bg-gray-200  w-full p-4 rounded-xl'>Quiz-02</p>
+        <p className='bg-gray-200  w-full p-4 rounded-xl  flex items-center gap-4'><span><FaRegDotCircle /></span> Quiz-02</p>
 
-    <p className='bg-gray-200  w-full p-4 rounded-xl'>Quiz-03</p>
-      <p className='bg-gray-200  w-full p-4 rounded-xl'>Quiz-04</p>
-        <p className='bg-gray-200  w-full p-4 rounded-xl'>Quiz-05</p>
-<FaRegDotCircle />
+    <p className='bg-gray-200  w-full p-4 rounded-xl  flex items-center gap-4'><span><FaRegDotCircle /></span> Quiz-03</p>
+      <p className='bg-gray-200  w-full p-4 rounded-xl  flex items-center gap-4'><span><FaRegDotCircle /></span> Quiz-04</p>
+        <p className='bg-gray-200  w-full p-4 rounded-xl flex items-center gap-4'><span><FaRegDotCircle /></span> Quiz-05</p>
+
   
   </div>
 
